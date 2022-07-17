@@ -1,5 +1,5 @@
 AIM:
-I want to import package from parent directory.
+I want to import package from parent directory. Please run the .py file which is in parent_dir directory.
 
 MY TRIALS:
 Link I referred for this issue: # https://stackoverflow.com/questions/14132789/relative-imports-for-the-billionth-time/14132912#14132912
