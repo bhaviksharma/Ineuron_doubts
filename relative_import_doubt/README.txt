@@ -9,4 +9,5 @@ I would like relative import to work. Even if 3rd option works, I am not interes
 
 INFO:
 __package__ : return none.
-Whatever module we work in is __main__ hence it has no parent pacakge.
+Whatever module we work in is __main__ hence it has no parent pacakge. This is what I could deduct from above link.
+I have included the Import error image.I 
